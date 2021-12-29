@@ -95,7 +95,7 @@ function App() {
       <Header>
         <AppName>
           <MovieImage src="/movie-icon.svg" />
-          React Movie App
+          Live React Movie App
         </AppName>
         <SearchBox>
           <SearchIcon src="https://raw.githubusercontent.com/ajazbeig-21/live-movie-app/a17e68594f176e3f4e8090b54b9b67d2bf5eb328/public/search-icon.svg" />
