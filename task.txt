@@ -1,0 +1,26 @@
+Api Key:
+
+https://www.omdbapi.com/?s=avengers&apikey=b4d963ca
+
+from package.json
+remove 3) @testing Library and web-vitals
+
+from src: delete
+app.test.js
+setuptest.js
+reportweb vital
+
+
+from index.js:
+remove import reportWebVital line
+last commented line with WebVital()
+
+
+from app.js:
+remove Header part abd add some text
+
+
+remove app.css and logo.csv
+
+install dependancies:
+npm install styled-components axios --save
